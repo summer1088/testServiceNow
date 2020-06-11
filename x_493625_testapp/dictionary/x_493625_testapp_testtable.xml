@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="testTable" max_length="40" name="x_493625_testapp_testtable" sizeclass="0" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element label="Quantity" max_length="40" name="quantity" type="integer"/>
         <element display="true" label="testfield" max_length="40" name="testfield" type="integer"/>
         <element label="URL" max_length="1024" name="url" reference="x_493625_testapp_http___www_google_co_jp" type="url"/>
