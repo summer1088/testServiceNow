@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="testfield" label="Testfield" language="en" table="x_493625_testapp_testtable">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>testfield</element>
+            <help/>
+            <hint/>
+            <label>Testfield</label>
+            <language>en</language>
+            <name>x_493625_testapp_testtable</name>
+            <plural>Testfields</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-11 05:08:46</sys_created_on>
+            <sys_id>2a0a7a06db1110107bb9656b4b961915</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Testfield</sys_name>
+            <sys_package display_value="testApp" source="x_493625_testapp">ad001d71db1110107bb9656b4b9619c8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="testApp">ad001d71db1110107bb9656b4b9619c8</sys_scope>
+            <sys_update_name>sys_documentation_x_493625_testapp_testtable_testfield_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-11 05:08:46</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
